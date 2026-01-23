@@ -35,7 +35,7 @@ For this reason, the sensor is powered with **5V** in this project.
 
 The image below shows the physical wiring of the components:
 
-![PIR Sensor Connection](pic.jpg)
+![PIR Sensor Connection](pic.jpeg)
 
 ---
 
